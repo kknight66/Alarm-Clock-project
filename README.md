@@ -9,3 +9,6 @@ The clock shows the time of day. Using buttons, the user can set the hours and m
 It is possible to set one or two alarms. When an alarm fires, it will sound some noise. The user can turn it off, or choose to ’snooze’. If the user does not respond at all, the alarm will turn off itself after 2 minutes. ’Snoozing’ means to turn off the sound, but the alarm will fire again after some minutes of delay. This ’snoozing time’ is pre-adjustable.
 
 Identify the top-level functional requirement for the clock, and model it with a use case diagram.  (Use case description will come later.  Only create the use case diagram now.)
+
+![img_2157](https://user-images.githubusercontent.com/35615466/36407483-9ca5677e-15c4-11e8-8045-444f3373bfc6.jpg)
+
